@@ -3,7 +3,7 @@ package ru.romanov.springbootapp.service;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
-import ru.romanov.springbootapp.controller.DAO.UserDAO;
+import ru.romanov.springbootapp.DAO.UserDAO;
 import ru.romanov.springbootapp.model.User;
 import java.util.List;
 
